@@ -1,0 +1,1 @@
+cmd_/home/mani/Desktop/GTM689W-final-SDK1_1/GobiSerial/GobiSerial.ko := arm-linux-ld -EL -r   --build-id -o /home/mani/Desktop/GTM689W-final-SDK1_1/GobiSerial/GobiSerial.ko /home/mani/Desktop/GTM689W-final-SDK1_1/GobiSerial/GobiSerial.o /home/mani/Desktop/GTM689W-final-SDK1_1/GobiSerial/GobiSerial.mod.o

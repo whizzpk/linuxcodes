@@ -1,0 +1,7 @@
+#!/bin/sh
+
+password="your_password_here"
+
+set_value_to=$(zenity --title="Brightness control" --scale --text="Adjust the     brightness value" --min-value=5 --max-value=95 --value=50)
+
+echo $password | sudo -S setpci -s 00:02.0 f4.b=$set_value_to

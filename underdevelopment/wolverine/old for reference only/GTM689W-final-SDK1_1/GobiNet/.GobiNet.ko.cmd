@@ -1,0 +1,1 @@
+cmd_/home/mani/Desktop/GTM689W-final-SDK1_1/GobiNet/GobiNet.ko := arm-linux-ld -EL -r   --build-id -o /home/mani/Desktop/GTM689W-final-SDK1_1/GobiNet/GobiNet.ko /home/mani/Desktop/GTM689W-final-SDK1_1/GobiNet/GobiNet.o /home/mani/Desktop/GTM689W-final-SDK1_1/GobiNet/GobiNet.mod.o

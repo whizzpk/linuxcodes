@@ -1,0 +1,16 @@
+#!/bin/sh
+modprobe i2c-cns3xxx
+
+
+#move results cont
+
+## video card gpio test
+vidtest=`echo direct input 60 > /proc/cns3xxx/gpio` 
+vidtest=`echo get value 60 > /proc/cns3xxx/gpio` 
+$state=$(dmesg | tail -n 1 | cut -d] -f 2)
+$tmp='get value pin=60 state=0'
+if test $tmp=$state
+then echo "Interface board detection Test - Passed"
+else echo "Interface board detection Test - Failed"
+fi  
+

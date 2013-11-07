@@ -1,0 +1,1 @@
+cmd_/home/mani/Desktop/GTM689W-final-SDK1_1/GobiNet/GobiNet.o := arm-linux-ld -EL    -r -o /home/mani/Desktop/GTM689W-final-SDK1_1/GobiNet/GobiNet.o /home/mani/Desktop/GTM689W-final-SDK1_1/GobiNet/GobiUSBNet.o /home/mani/Desktop/GTM689W-final-SDK1_1/GobiNet/QMIDevice.o /home/mani/Desktop/GTM689W-final-SDK1_1/GobiNet/QMI.o 

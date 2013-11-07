@@ -1,0 +1,41 @@
+I2C
+	PLX PCIe_Switch – PEX8603 ( it has i2c interface as debugging interface, we don't test it)
+	I2C switch – PCA9548A (we only test modules attached to it,so testing of switch itself is not needed)
+	Ublox GPS – Neo 7N0000 (i2c packet size issue, solution is progress ) 
+	Temp sensor : unable to read temp, solution in progress 
+
+
+PCI/PCIe
+	
+	PLX PCIe_Switch – PEX8603
+	PLX PCIe to PCI Bridge – PEX8112
+	Doodle Lab Module – DL 915-26
+	Senao Networks Module – PCE3200AH
+UART
+	
+	rs485 UART1 (verified )
+	rs232  UART2(verified)
+	UART0 (if minicom terminal is working it means interface is ok) 
+USB
+	Root HUB
+	Option Wireless (GSM)
+	Sierra (GSM)
+	external port  (verified)
+
+
+
+	
+	
+Ethernet
+	eth0, eth1, eth2
+	
+	
+Also 
+ SD card on SDHCI 
+ RAM (verified)
+ GPIO (to be verified in rev3)
+ interface detection (verified)
+ video card detection 
+
+
+

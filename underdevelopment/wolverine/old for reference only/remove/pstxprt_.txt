@@ -1,0 +1,2771 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.3.0 p002Jan-01-2013 at 12:15:45 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='6043_WOLVERINE_ECONA-INTERFACE_SCH_010113';
+ POST_TIME='May 16 2011 13:50:11';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_0603_0.1UF_100V_10%_X7R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19885401@LIBRARY1.CAP_0603_0.1UF_100V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19885401@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page9_ins19885401@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_TBD_100UF_100V_20%_AL_VA_CA':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20016329@6043_PROJ_S.CAP_TBD_100UF_100V_20%_AL.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20016329@\6043_proj_s\.\cap_tbd_100uf_100v_20%_al.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page9_ins20016329@\6043_proj_s\.\cap_tbd_100uf_100v_20%_al.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP_0603_1UF 50V_10%_X5R_V_C060':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828933@LIBRARY1.CAP_0603_1UF 50V_10%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828933@library1.\cap_0603_1uf 50v_10%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828933@library1.\cap_0603_1uf 50v_10%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP_0603_0.1UF_100V_10%_X7R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829089@LIBRARY1.CAP_0603_0.1UF_100V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829089@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19829089@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP_0603_1UF 50V_10%_X5R_V_C060':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828961@LIBRARY1.CAP_0603_1UF 50V_10%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828961@library1.\cap_0603_1uf 50v_10%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828961@library1.\cap_0603_1uf 50v_10%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP_0603_0.1UF_100V_10%_X7R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829061@LIBRARY1.CAP_0603_0.1UF_100V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829061@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19829061@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP_0603_1UF 50V_10%_X5R_V_C060':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829047@LIBRARY1.CAP_0603_1UF 50V_10%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829047@library1.\cap_0603_1uf 50v_10%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19829047@library1.\cap_0603_1uf 50v_10%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP_0603_0.1UF_100V_10%_X7R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829135@LIBRARY1.CAP_0603_0.1UF_100V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829135@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19829135@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP_TBD_330UF_50V_20%_AL_120M_V':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20014957@6043_PROJ_S.CAP_TBD_330UF_50V_20%_AL_120M.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20014957@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins20014957@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP_TBD_330UF_50V_20%_AL_120M_V':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20015168@6043_PROJ_S.CAP_TBD_330UF_50V_20%_AL_120M.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20015168@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins20015168@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_0805_4.7UF_6.3V_10%_X7R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19994333@LIBRARY1.CAP_0805_4.7UF_6.3V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19994333@library1.\cap_0805_4.7uf_6.3v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page15_ins19994333@library1.\cap_0805_4.7uf_6.3v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP_0603_0.1UF_100V_10%_X7R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19830045@LIBRARY1.CAP_0603_0.1UF_100V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19830045@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19830045@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP_0402_15NF_50V_10%_X7R_V_C04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19830073@LIBRARY1.CAP_0402_15NF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19830073@library1.\cap_0402_15nf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19830073@library1.\cap_0402_15nf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP_0402_270PF_50V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829725@LIBRARY1.CAP_0402_270PF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829725@library1.\cap_0402_270pf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829725@library1.\cap_0402_270pf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP_0402_820PF_50V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829929@LIBRARY1.CAP_0402_820PF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829929@library1.\cap_0402_820pf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829929@library1.\cap_0402_820pf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP_0402_820PF_50V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19830059@LIBRARY1.CAP_0402_820PF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19830059@library1.\cap_0402_820pf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19830059@library1.\cap_0402_820pf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP_0402_15NF_50V_10%_X7R_V_C04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829711@LIBRARY1.CAP_0402_15NF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829711@library1.\cap_0402_15nf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829711@library1.\cap_0402_15nf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP_0402_15NF_50V_10%_X7R_V_C04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829807@LIBRARY1.CAP_0402_15NF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829807@library1.\cap_0402_15nf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829807@library1.\cap_0402_15nf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP_0402_470NF_6.3V_10%_X5R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19830105@LIBRARY1.CAP_0402_470NF_6.3V_10%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19830105@library1.\cap_0402_470nf_6.3v_10%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19830105@library1.\cap_0402_470nf_6.3v_10%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_0805_4.7UF_6.3V_10%_X7R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19994345@LIBRARY1.CAP_0805_4.7UF_6.3V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19994345@library1.\cap_0805_4.7uf_6.3v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page15_ins19994345@library1.\cap_0805_4.7uf_6.3v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP_0402_470NF_6.3V_10%_X5R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19830119@LIBRARY1.CAP_0402_470NF_6.3V_10%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19830119@library1.\cap_0402_470nf_6.3v_10%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19830119@library1.\cap_0402_470nf_6.3v_10%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP_0402_470NF_6.3V_10%_X5R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19830031@LIBRARY1.CAP_0402_470NF_6.3V_10%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19830031@library1.\cap_0402_470nf_6.3v_10%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19830031@library1.\cap_0402_470nf_6.3v_10%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C510 'CAP_0805_0.1UF_50V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19753796@5665_PROJ.CAP_0805_0.1UF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19753796@\5665_proj\.\cap_0805_0.1uf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19753796@\5665_proj\.\cap_0805_0.1uf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C511 'CAP_0805_0.1UF_50V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19753963@5665_PROJ.CAP_0805_0.1UF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19753963@\5665_proj\.\cap_0805_0.1uf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19753963@\5665_proj\.\cap_0805_0.1uf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C512 'CAP_0805_0.1UF_50V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19753784@5665_PROJ.CAP_0805_0.1UF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19753784@\5665_proj\.\cap_0805_0.1uf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19753784@\5665_proj\.\cap_0805_0.1uf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C513 'CAP_0805_0.1UF_50V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19753941@5665_PROJ.CAP_0805_0.1UF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19753941@\5665_proj\.\cap_0805_0.1uf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19753941@\5665_proj\.\cap_0805_0.1uf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP_0402_0.22UF_10V_20%_X5R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19830175@LIBRARY1.CAP_0402_0.22UF_10V_20%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19830175@library1.\cap_0402_0.22uf_10v_20%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19830175@library1.\cap_0402_0.22uf_10v_20%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP_0402_0.22UF_10V_20%_X5R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829955@LIBRARY1.CAP_0402_0.22UF_10V_20%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829955@library1.\cap_0402_0.22uf_10v_20%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829955@library1.\cap_0402_0.22uf_10v_20%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP_CASE_D_330UF_10V_10%_T_150M':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19943445@CAPACITORS.CAP_CASE_D_330UF_10V_10%_T_150M.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19943445@capacitors.\cap_case_d_330uf_10v_10%_t_150m.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19943445@capacitors.\cap_case_d_330uf_10v_10%_t_150m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C545 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19686980@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19686980@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19686980@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C546 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19687057@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19687057@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19687057@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C547 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19687134@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19687134@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19687134@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C548 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19687211@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19687211@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19687211@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C549 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19687520@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19687520@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19687520@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C550 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19687616@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19687616@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19687616@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C551 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19687693@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19687693@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19687693@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C552 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19687770@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19687770@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19687770@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C556 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978135@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978135@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978135@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C557 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978159@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978159@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978159@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C558 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978147@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978147@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978147@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C559 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978171@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978171@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978171@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C560 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978183@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978183@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978183@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C561 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978207@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978207@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978207@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C562 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978195@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978195@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978195@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C563 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978219@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978219@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978219@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C598 'CAP_0402_0.1UF_25V_10%_X5R_H_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980084@CAPACITORS.CAP_0402_0.1UF_25V_10%_X5R_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980084@capacitors.\cap_0402_0.1uf_25v_10%_x5r_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980084@capacitors.\cap_0402_0.1uf_25v_10%_x5r_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_0805_4.7UF_6.3V_10%_X7R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19994266@LIBRARY1.CAP_0805_4.7UF_6.3V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19994266@library1.\cap_0805_4.7uf_6.3v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page15_ins19994266@library1.\cap_0805_4.7uf_6.3v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C624 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974390@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974390@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974390@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C625 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974402@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974402@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974402@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C626 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974414@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974414@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974414@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C627 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974426@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974426@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974426@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C628 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974475@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974475@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974475@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C629 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974487@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974487@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974487@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C630 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974499@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974499@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974499@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C631 'CAP_0402_0.1UF_16V_10%_Y5V_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974511@CAPACITORS.CAP_0402_0.1UF_16V_10%_Y5V_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974511@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974511@capacitors.\cap_0402_0.1uf_16v_10%_y5v_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C632 'CAP_0402_330PF_50V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19781010@CAPACITORS.CAP_0402_330PF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19781010@capacitors.\cap_0402_330pf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19781010@capacitors.\cap_0402_330pf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C633 'CAP_0402_330PF_50V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19781022@CAPACITORS.CAP_0402_330PF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19781022@capacitors.\cap_0402_330pf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19781022@capacitors.\cap_0402_330pf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C634 'CAP_0402_330PF_50V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19781201@CAPACITORS.CAP_0402_330PF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19781201@capacitors.\cap_0402_330pf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19781201@capacitors.\cap_0402_330pf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C635 'CAP_0402_330PF_50V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19781217@CAPACITORS.CAP_0402_330PF_50V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19781217@capacitors.\cap_0402_330pf_50v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19781217@capacitors.\cap_0402_330pf_50v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C636 'CAP_0402_0.1UF_25V_10%_X5R_H_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19785124@CAPACITORS.CAP_0402_0.1UF_25V_10%_X5R_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19785124@capacitors.\cap_0402_0.1uf_25v_10%_x5r_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19785124@capacitors.\cap_0402_0.1uf_25v_10%_x5r_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C638 'CAP_0402_0.1UF_16V_10%_X7R_DNP_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19785873@6043_PROJ.CAP_0402_0.1UF_16V_10%_X7R_DNP.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19785873@\6043_proj\.\cap_0402_0.1uf_16v_10%_x7r_dnp.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19785873@\6043_proj\.\cap_0402_0.1uf_16v_10%_x7r_dnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C639 'CAP_0402_0.1UF_16V_10%_X7R_DNP_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978231@6043_PROJ.CAP_0402_0.1UF_16V_10%_X7R_DNP.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978231@\6043_proj\.\cap_0402_0.1uf_16v_10%_x7r_dnp.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978231@\6043_proj\.\cap_0402_0.1uf_16v_10%_x7r_dnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C640 'CAP_0402_0.1UF_16V_10%_X7R_DNP_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974570@6043_PROJ.CAP_0402_0.1UF_16V_10%_X7R_DNP.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974570@\6043_proj\.\cap_0402_0.1uf_16v_10%_x7r_dnp.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974570@\6043_proj\.\cap_0402_0.1uf_16v_10%_x7r_dnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C641 'CAP_0402_0.1UF_16V_10%_X7R_DNP_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974611@6043_PROJ.CAP_0402_0.1UF_16V_10%_X7R_DNP.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974611@\6043_proj\.\cap_0402_0.1uf_16v_10%_x7r_dnp.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974611@\6043_proj\.\cap_0402_0.1uf_16v_10%_x7r_dnp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C656 'CAP_0402_0.22UF_16V_10%_X5R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985938@CAPACITORS.CAP_0402_0.22UF_16V_10%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985938@capacitors.\cap_0402_0.22uf_16v_10%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985938@capacitors.\cap_0402_0.22uf_16v_10%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C657 'CAP_0603_1UF_25V_10%_X5R_H_C060':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986338@6043_PROJ.CAP_0603_1UF_25V_10%_X5R_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986338@\6043_proj\.\cap_0603_1uf_25v_10%_x5r_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986338@\6043_proj\.\cap_0603_1uf_25v_10%_x5r_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C658 'CAP_1210_2.2UF_100V_10%_X7R_C12':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20005407@6043_PROJ.CAP_1210_2.2UF_100V_10%_X7R.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20005407@\6043_proj\.\cap_1210_2.2uf_100v_10%_x7r.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins20005407@\6043_proj\.\cap_1210_2.2uf_100v_10%_x7r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C659 'CAP_TBD_330UF_50V_20%_AL_120M_V':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20015343@6043_PROJ_S.CAP_TBD_330UF_50V_20%_AL_120M.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20015343@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins20015343@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C660 'CAP_TBD_330UF_50V_20%_AL_120M_V':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20015474@6043_PROJ_S.CAP_TBD_330UF_50V_20%_AL_120M.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20015474@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins20015474@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C661 'CAP_TBD_330UF_50V_20%_AL_120M_V':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20015636@6043_PROJ_S.CAP_TBD_330UF_50V_20%_AL_120M.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20015636@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins20015636@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C662 'CAP_0805_22UF_10V_20%_X5R_V_C08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986376@6043_PROJ.CAP_0805_22UF_10V_20%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986376@\6043_proj\.\cap_0805_22uf_10v_20%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986376@\6043_proj\.\cap_0805_22uf_10v_20%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C663 'CAP_0805_1000PF_50V_5%_NP0_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20005615@6043_PROJ.CAP_0805_1000PF_50V_5%_NP0_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20005615@\6043_proj\.\cap_0805_1000pf_50v_5%_np0_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins20005615@\6043_proj\.\cap_0805_1000pf_50v_5%_np0_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C664 'CAP_0805_0.33UF_16V_10%_X7R_C08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20005819@6043_PROJ.CAP_0805_0.33UF_16V_10%_X7R.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20005819@\6043_proj\.\cap_0805_0.33uf_16v_10%_x7r.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins20005819@\6043_proj\.\cap_0805_0.33uf_16v_10%_x7r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C666 'CAP_0603_0.047UF_25V_5%_X7R_C06':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20000278@6043_PROJ.CAP_0603_0.047UF_25V_5%_X7R.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20000278@\6043_proj\.\cap_0603_0.047uf_25v_5%_x7r.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins20000278@\6043_proj\.\cap_0603_0.047uf_25v_5%_x7r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C667 'CAP_1210_1000PF_1KV_10%_X7R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20000637@6043_PROJ.CAP_1210_1000PF_1KV_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20000637@\6043_proj\.\cap_1210_1000pf_1kv_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins20000637@\6043_proj\.\cap_1210_1000pf_1kv_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C668 'CAP_1210_1000PF_1KV_10%_X7R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20000752@6043_PROJ.CAP_1210_1000PF_1KV_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20000752@\6043_proj\.\cap_1210_1000pf_1kv_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins20000752@\6043_proj\.\cap_1210_1000pf_1kv_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C683 'CAP_0402_330PF_50V_5%_NP0_V_C08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985696@6043_PROJ.CAP_0402_330PF_50V_5%_NP0_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985696@\6043_proj\.\cap_0402_330pf_50v_5%_np0_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985696@\6043_proj\.\cap_0402_330pf_50v_5%_np0_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C684 'CAP_0603_0.047UF_25V_5%_X7R_C06':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20000372@6043_PROJ.CAP_0603_0.047UF_25V_5%_X7R.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20000372@\6043_proj\.\cap_0603_0.047uf_25v_5%_x7r.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins20000372@\6043_proj\.\cap_0603_0.047uf_25v_5%_x7r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C685 'CAP_0805_0.33UF_16V_10%_X7R_C08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20005892@6043_PROJ.CAP_0805_0.33UF_16V_10%_X7R.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20005892@\6043_proj\.\cap_0805_0.33uf_16v_10%_x7r.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins20005892@\6043_proj\.\cap_0805_0.33uf_16v_10%_x7r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C686 'CAP_0402_330PF_50V_5%_NP0_V_C08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989581@6043_PROJ.CAP_0402_330PF_50V_5%_NP0_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989581@\6043_proj\.\cap_0402_330pf_50v_5%_np0_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989581@\6043_proj\.\cap_0402_330pf_50v_5%_np0_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C687 'CAP_0603_0.047UF_25V_5%_X7R_C06':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20000447@6043_PROJ.CAP_0603_0.047UF_25V_5%_X7R.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20000447@\6043_proj\.\cap_0603_0.047uf_25v_5%_x7r.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins20000447@\6043_proj\.\cap_0603_0.047uf_25v_5%_x7r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C689 'CAP_0805_1000PF_50V_5%_NP0_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20005694@6043_PROJ.CAP_0805_1000PF_50V_5%_NP0_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20005694@\6043_proj\.\cap_0805_1000pf_50v_5%_np0_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins20005694@\6043_proj\.\cap_0805_1000pf_50v_5%_np0_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C690 'CAP_0603_0.047UF_25V_5%_X7R_C06':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20000522@6043_PROJ.CAP_0603_0.047UF_25V_5%_X7R.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20000522@\6043_proj\.\cap_0603_0.047uf_25v_5%_x7r.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins20000522@\6043_proj\.\cap_0603_0.047uf_25v_5%_x7r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C691 'CAP_0402_0.22UF_16V_10%_X5R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989825@CAPACITORS.CAP_0402_0.22UF_16V_10%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989825@capacitors.\cap_0402_0.22uf_16v_10%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989825@capacitors.\cap_0402_0.22uf_16v_10%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C692 'CAP_1210_2.2UF_100V_10%_X7R_C12':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20005513@6043_PROJ.CAP_1210_2.2UF_100V_10%_X7R.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20005513@\6043_proj\.\cap_1210_2.2uf_100v_10%_x7r.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins20005513@\6043_proj\.\cap_1210_2.2uf_100v_10%_x7r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C693 'CAP_0603_1UF_25V_10%_X5R_H_C060':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990211@6043_PROJ.CAP_0603_1UF_25V_10%_X5R_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990211@\6043_proj\.\cap_0603_1uf_25v_10%_x5r_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990211@\6043_proj\.\cap_0603_1uf_25v_10%_x5r_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C694 'CAP_TBD_330UF_50V_20%_AL_120M_V':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20015912@6043_PROJ_S.CAP_TBD_330UF_50V_20%_AL_120M.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20015912@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins20015912@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C695 'CAP_TBD_330UF_50V_20%_AL_120M_V':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20016015@6043_PROJ_S.CAP_TBD_330UF_50V_20%_AL_120M.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20016015@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins20016015@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C696 'CAP_TBD_330UF_50V_20%_AL_120M_V':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20016149@6043_PROJ_S.CAP_TBD_330UF_50V_20%_AL_120M.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20016149@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins20016149@\6043_proj_s\.\cap_tbd_330uf_50v_20%_al_120m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C697 'CAP_0603_0.1UF_100V_10%_X7R_V_C':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19887743@LIBRARY1.CAP_0603_0.1UF_100V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19887743@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page11_ins19887743@library1.\cap_0603_0.1uf_100v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C698 'CAP_TBD_100UF_100V_20%_AL_VA_CA':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20016540@6043_PROJ_S.CAP_TBD_100UF_100V_20%_AL.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20016540@\6043_proj_s\.\cap_tbd_100uf_100v_20%_al.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page11_ins20016540@\6043_proj_s\.\cap_tbd_100uf_100v_20%_al.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C699 'CAP_0805_22UF_10V_20%_X5R_V_C08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990235@6043_PROJ.CAP_0805_22UF_10V_20%_X5R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990235@\6043_proj\.\cap_0805_22uf_10v_20%_x5r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990235@\6043_proj\.\cap_0805_22uf_10v_20%_x5r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_0402_5.6NF_25V_10%_X7R_V_C0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19994296@LIBRARY1.CAP_0402_5.6NF_25V_10%_X7R_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19994296@library1.\cap_0402_5.6nf_25v_10%_x7r_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page15_ins19994296@library1.\cap_0402_5.6nf_25v_10%_x7r_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR5 'PULSE_SUPPRESSORS_PGB1010603_F0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980597@6043_PROJ.PULSE_SUPPRESSORS_PGB1010603.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980597@\6043_proj\.\pulse_suppressors_pgb1010603.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980597@\6043_proj\.\pulse_suppressors_pgb1010603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR6 'PULSE_SUPPRESSORS_PGB1010603_F0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980605@6043_PROJ.PULSE_SUPPRESSORS_PGB1010603.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980605@\6043_proj\.\pulse_suppressors_pgb1010603.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980605@\6043_proj\.\pulse_suppressors_pgb1010603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR7 'PULSE_SUPPRESSORS_PGB1010603_F0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980620@6043_PROJ.PULSE_SUPPRESSORS_PGB1010603.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980620@\6043_proj\.\pulse_suppressors_pgb1010603.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980620@\6043_proj\.\pulse_suppressors_pgb1010603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19885437@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19885437@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page9_ins19885437@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'B220A-13-F':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19994278@LIBRARY1.B220A-13-F_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19994278@library1.\b220a-13-f_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page15_ins19994278@library1.\b220a-13-f_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D102 'DSCTKY_0V79_1A_TBD_SMA_SM_SMA_2':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986310@6043_PROJ.DSCTKY_0V79_1A_TBD_SMA_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986310@\6043_proj\.\dsctky_0v79_1a_tbd_sma_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986310@\6043_proj\.\dsctky_0v79_1a_tbd_sma_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D103 'DSCTKY_1V25_0.15A_TBD_SOD_SOD12':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986318@6043_PROJ.DSCTKY_1V25_0.15A_TBD_SOD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986318@\6043_proj\.\dsctky_1v25_0.15a_tbd_sod.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986318@\6043_proj\.\dsctky_1v25_0.15a_tbd_sod.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 '1SMB36AT3G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828923@LIBRARY1.1SMB36AT3G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828923@library1.\1smb36at3g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828923@library1.\1smb36at3g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D116 'DSCTKY_0V79_1A_TBD_SMA_SM_SMA_2':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990181@6043_PROJ.DSCTKY_0V79_1A_TBD_SMA_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990181@\6043_proj\.\dsctky_0v79_1a_tbd_sma_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990181@\6043_proj\.\dsctky_0v79_1a_tbd_sma_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D117 'DSCTKY_1V25_0.15A_TBD_SOD_SOD12':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990189@6043_PROJ.DSCTKY_1V25_0.15A_TBD_SOD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990189@\6043_proj\.\dsctky_1v25_0.15a_tbd_sod.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990189@\6043_proj\.\dsctky_1v25_0.15a_tbd_sod.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D118 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19887727@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19887727@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page11_ins19887727@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D119 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19887735@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19887735@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page11_ins19887735@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 '1SMB36AT3G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828999@LIBRARY1.1SMB36AT3G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828999@library1.\1smb36at3g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828999@library1.\1smb36at3g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D120 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19887755@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19887755@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page11_ins19887755@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D121 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19887763@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19887763@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page11_ins19887763@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D122 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19887771@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19887771@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page11_ins19887771@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D123 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19887779@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19887779@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page11_ins19887779@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D124 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19887787@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19887787@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page11_ins19887787@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D125 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19887807@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19887807@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page11_ins19887807@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D126 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19887815@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19887815@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page11_ins19887815@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 '1SMB36AT3G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829163@LIBRARY1.1SMB36AT3G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829163@library1.\1smb36at3g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19829163@library1.\1smb36at3g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 '1SMB36AT3G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828899@LIBRARY1.1SMB36AT3G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828899@library1.\1smb36at3g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828899@library1.\1smb36at3g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D15 'BAT54-7-F':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829599@LIBRARY1.BAT54-7-F.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829599@library1.\bat54-7-f.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829599@library1.\bat54-7-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D16 'BAT54-7-F':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829767@LIBRARY1.BAT54-7-F.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829767@library1.\bat54-7-f.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829767@library1.\bat54-7-f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19885465@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19885465@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page9_ins19885465@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19885421@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19885421@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page9_ins19885421@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19885445@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19885445@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page9_ins19885445@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19885393@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19885393@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page9_ins19885393@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19885429@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19885429@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page9_ins19885429@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19885385@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19885385@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page9_ins19885385@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19885413@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19885413@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page9_ins19885413@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'CDBB1100-G':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19885473@LIBRARY1.CDBB1100-G_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19885473@library1.\cdbb1100-g_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page9_ins19885473@library1.\cdbb1100-g_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS20 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976118@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976118@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976118@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS21 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976126@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976126@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976126@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS22 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976134@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976134@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976134@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS23 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976142@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976142@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976142@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS24 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976150@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976150@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976150@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS25 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976626@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976626@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976626@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS26 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976636@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976636@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976636@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS27 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976644@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976644@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976644@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS28 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976652@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976652@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976652@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS29 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976660@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976660@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976660@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS30 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976668@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976668@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976668@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS31 'LED_UNI_GRN_2V2_0A02_SS_SM_LED_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976921@LEDS.LED_UNI_GRN_2V2_0A02_SS_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976921@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976921@leds.\led_uni_grn_2v2_0a02_ss_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FER_220_2.2A_MPZ1608S221A_SM_FB':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19688567@6043_PROJ.FER_220_2.2A_MPZ1608S221A_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19688567@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19688567@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F2 'FER_220_2.2A_MPZ1608S221A_SM_FB':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19977948@6043_PROJ.FER_220_2.2A_MPZ1608S221A_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19977948@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19977948@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F3 'FER_220_2.2A_MPZ1608S221A_SM_FB':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980531@6043_PROJ.FER_220_2.2A_MPZ1608S221A_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980531@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980531@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F4 'FER_220_2.2A_MPZ1608S221A_SM_FB':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19792783@6043_PROJ.FER_220_2.2A_MPZ1608S221A_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19792783@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19792783@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F5 'FER_220_2.2A_MPZ1608S221A_SM_FB':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974553@6043_PROJ.FER_220_2.2A_MPZ1608S221A_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974553@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974553@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F6 'FER_220_2.2A_MPZ1608S221A_SM_FB':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974590@6043_PROJ.FER_220_2.2A_MPZ1608S221A_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974590@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974590@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F7 'FER_220_2.2A_MPZ1608S221A_SM_FB':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19794220@6043_PROJ.FER_220_2.2A_MPZ1608S221A_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19794220@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19794220@\6043_proj\.\fer_220_2.2a_mpz1608s221a_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON_USB_RA_4_875832010BLF_CON4_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980550@6043_PROJ.CON_USB_RA_4_875832010BLF.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980550@\6043_proj\.\con_usb_ra_4_875832010blf.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980550@\6043_proj\.\con_usb_ra_4_875832010blf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'CON_PWR_RA_20A_300V_7MM_CON2_PW':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828975@LIBRARY1.CON_PWR_RA_20A_300V_7MM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828975@library1.\con_pwr_ra_20a_300v_7mm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828975@library1.\con_pwr_ra_20a_300v_7mm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON_RJ45_RA_34_0845-2R1T-E4_JAC':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19684932@6043_PROJ.CON_RJ45_RA_34_0845-2R1T-E4A.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19684932@\6043_proj\.\con_rj45_ra_34_0845-2r1t-e4a.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19684932@\6043_proj\.\con_rj45_ra_34_0845-2r1t-e4a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19685003@6043_PROJ.CON_RJ45_RA_34_0845-2R1T-E4B.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19685003@\6043_proj\.\con_rj45_ra_34_0845-2r1t-e4b.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19685003@\6043_proj\.\con_rj45_ra_34_0845-2r1t-e4b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ J3 'CON_RJ45_RA_34_0845-2R1T-E4_JAC':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19977956@6043_PROJ.CON_RJ45_RA_34_0845-2R1T-E4A.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19977956@\6043_proj\.\con_rj45_ra_34_0845-2r1t-e4a.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19977956@\6043_proj\.\con_rj45_ra_34_0845-2r1t-e4a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19977983@6043_PROJ.CON_RJ45_RA_34_0845-2R1T-E4B.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19977983@\6043_proj\.\con_rj45_ra_34_0845-2r1t-e4b.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19977983@\6043_proj\.\con_rj45_ra_34_0845-2r1t-e4b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ J40 'CON_DB-9_RA_9_048202-6043_DB9_2':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980177@6043_PROJ.CON_DB-9_RA_9_048202-6043.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980177@\6043_proj\.\con_db-9_ra_9_048202-6043.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980177@\6043_proj\.\con_db-9_ra_9_048202-6043.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J41 'CON_RJ45_TBD_20_0826-1X1T-GF-H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974865@6043_PROJ.CON_RJ45_TBD_20_0826-1X1T-GF-H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974865@\6043_proj\.\con_rj45_tbd_20_0826-1x1t-gf-h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974865@\6043_proj\.\con_rj45_tbd_20_0826-1x1t-gf-h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J42 'CON_RJ45_TBD_20_0826-1X1T-GF-H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974893@6043_PROJ.CON_RJ45_TBD_20_0826-1X1T-GF-H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974893@\6043_proj\.\con_rj45_tbd_20_0826-1x1t-gf-h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974893@\6043_proj\.\con_rj45_tbd_20_0826-1x1t-gf-h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J43 'CON_SOCKET_VER_100_ESQT15002LD_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19951963@6043_PROJ.CON_SOCKET_VER_100_ESQT15002LD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19951963@\6043_proj\.\con_socket_ver_100_esqt15002ld.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page3_ins19951963@\6043_proj\.\con_socket_ver_100_esqt15002ld.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J44 'CON_SOCKET_VER_40_ESQT12002LD_E':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19959334@6043_PROJ.CON_SOCKET_VER_40_ESQT12002LD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19959334@\6043_proj\.\con_socket_ver_40_esqt12002ld.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page3_ins19959334@\6043_proj\.\con_socket_ver_40_esqt12002ld.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CON_PWR_RA_20A_300V_5MM_CON2_PW':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829023@LIBRARY1.CON_PWR_RA_20A_300V_5MM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829023@library1.\con_pwr_ra_20a_300v_5mm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19829023@library1.\con_pwr_ra_20a_300v_5mm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CON_RJ45_RA_16_10118069-17558_J':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19761945@6043_PROJ.CON_RJ45_RA_16_10118069-17558A.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19761945@\6043_proj\.\con_rj45_ra_16_10118069-17558a.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19761945@\6043_proj\.\con_rj45_ra_16_10118069-17558a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19761976@6043_PROJ.CON_RJ45_RA_16_10118069-17558B.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19761976@\6043_proj\.\con_rj45_ra_16_10118069-17558b.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19761976@\6043_proj\.\con_rj45_ra_16_10118069-17558b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ L2 'IND_3U3_1A4_SMD_H_IND_PWR_2P_SM':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19994286@LIBRARY1.IND_3U3_1A4_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19994286@library1.\ind_3u3_1a4_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page15_ins19994286@library1.\ind_3u3_1a4_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L21 'IND_5UH_3.16_MSS7341-502MLB_IND':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986493@6043_PROJ.IND_5UH_3.16_MSS7341-502MLB.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986493@\6043_proj\.\ind_5uh_3.16_mss7341-502mlb.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986493@\6043_proj\.\ind_5uh_3.16_mss7341-502mlb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L22 'IND_0.18UH_DO1813H-181ML_IND_2P':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985676@6043_PROJ.IND_0.18UH_DO1813H-181ML.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985676@\6043_proj\.\ind_0.18uh_do1813h-181ml.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985676@\6043_proj\.\ind_0.18uh_do1813h-181ml.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L23 'IND_0.18UH_DO1813H-181ML_IND_2P':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989561@6043_PROJ.IND_0.18UH_DO1813H-181ML.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989561@\6043_proj\.\ind_0.18uh_do1813h-181ml.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989561@\6043_proj\.\ind_0.18uh_do1813h-181ml.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L24 'IND_5UH_3.16_MSS7341-502MLB_IND':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990362@6043_PROJ.IND_5UH_3.16_MSS7341-502MLB.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990362@\6043_proj\.\ind_5uh_3.16_mss7341-502mlb.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990362@\6043_proj\.\ind_5uh_3.16_mss7341-502mlb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L8 'IND_10U_17A5_SMD_H_IND_PWR_2P_S':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829889@LIBRARY1.IND_10U_17A5_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829889@library1.\ind_10u_17a5_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829889@library1.\ind_10u_17a5_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L9 'IND_10U_17A5_SMD_H_IND_PWR_2P_S':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829943@LIBRARY1.IND_10U_17A5_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829943@library1.\ind_10u_17a5_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829943@library1.\ind_10u_17a5_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOSFET_FDB8445_TO-263AB_FAIRCHI':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20020132@6043_PROJ.MOSFET_FDB8445.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20020132@\6043_proj\.\mosfet_fdb8445.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins20020132@\6043_proj\.\mosfet_fdb8445.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'MOSFET_FDB8445_TO-263AB_FAIRCHI':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20020214@6043_PROJ.MOSFET_FDB8445.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20020214@\6043_proj\.\mosfet_fdb8445.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins20020214@\6043_proj\.\mosfet_fdb8445.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'MOSFET_FDB8445_TO-263AB_FAIRCHI':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20020331@6043_PROJ.MOSFET_FDB8445.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20020331@\6043_proj\.\mosfet_fdb8445.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins20020331@\6043_proj\.\mosfet_fdb8445.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'NTMFS5832NLT1G_LFPAK_4P_1O27MM_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19830189@LIBRARY1.NTMFS5832NLT1G.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19830189@library1.\ntmfs5832nlt1g.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19830189@library1.\ntmfs5832nlt1g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'NTMFS5832NLT1G_LFPAK_4P_1O27MM_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829739@LIBRARY1.NTMFS5832NLT1G.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829739@library1.\ntmfs5832nlt1g.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829739@library1.\ntmfs5832nlt1g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'NTMFS5832NLT1G_LFPAK_4P_1O27MM_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19830087@LIBRARY1.NTMFS5832NLT1G.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19830087@library1.\ntmfs5832nlt1g.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19830087@library1.\ntmfs5832nlt1g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'NTMFS5832NLT1G_LFPAK_4P_1O27MM_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829581@LIBRARY1.NTMFS5832NLT1G.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829581@library1.\ntmfs5832nlt1g.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829581@library1.\ntmfs5832nlt1g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R176 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19687960@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19687960@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19687960@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R177 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19687998@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19687998@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19687998@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R178 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19688074@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19688074@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19688074@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R179 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19688112@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19688112@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page4_ins19688112@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R180 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974811@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974811@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974811@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R181 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974769@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974769@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974769@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R192 'RES_0402_0R0_0.125W_JMPR_SMD_H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980628@RESISTORS.RES_0402_0R0_0.125W_JMPR_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980628@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980628@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R194 'RES_0402_120R0_0.063W_5%_SMD_H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980072@RESISTORS.RES_0402_120R0_0.063W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980072@resistors.\res_0402_120r0_0.063w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980072@resistors.\res_0402_120r0_0.063w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R195 'RES_0402_120R0_0.063W_5%_SMD_H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980044@RESISTORS.RES_0402_120R0_0.063W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980044@resistors.\res_0402_120r0_0.063w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980044@resistors.\res_0402_120r0_0.063w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R196 'RES_0402_0R0_0.125W_JMPR_SMD_H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980132@RESISTORS.RES_0402_0R0_0.125W_JMPR_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980132@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980132@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R203 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19974831@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19974831@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19974831@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R204 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978378@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978378@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978378@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R205 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978390@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978390@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978390@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R206 'RES_0402_0R0_0.125W_JMPR_SMD_H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980096@RESISTORS.RES_0402_0R0_0.125W_JMPR_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980096@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980096@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R207 'RES_0402_0R0_0.125W_JMPR_SMD_H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980108@RESISTORS.RES_0402_0R0_0.125W_JMPR_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980108@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980108@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R208 'RES_0402_0R0_0.125W_JMPR_SMD_H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980120@RESISTORS.RES_0402_0R0_0.125W_JMPR_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980120@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980120@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R209 'RES_0402_0R0_0.125W_JMPR_SMD_H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980144@RESISTORS.RES_0402_0R0_0.125W_JMPR_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980144@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980144@resistors.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R210 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976238@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976238@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976238@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R211 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976250@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976250@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976250@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R212 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976262@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976262@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976262@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R213 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976274@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976274@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976274@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R214 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976286@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976286@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976286@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R215 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976967@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976967@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976967@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R216 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976554@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976554@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976554@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R217 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976566@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976566@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976566@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R218 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976578@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976578@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976578@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R219 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976590@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976590@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976590@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R220 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976602@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976602@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976602@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R221 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976614@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976614@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976614@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R222 'RES_0402_4K7_0.063W_1%_SMD_V_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19976929@RESISTORS.RES_0402_4K7_0.063W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19976929@resistors.\res_0402_4k7_0.063w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page6_ins19976929@resistors.\res_0402_4k7_0.063w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R223 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978245@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978245@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978245@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R224 'RES_0402_330R0_0.1W_5%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978260@RESISTORS.RES_0402_330R0_0.1W_5%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978260@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978260@resistors.\res_0402_330r0_0.1w_5%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R225 'RES_0402_4K7_0.063W_1%_SMD_V_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978272@RESISTORS.RES_0402_4K7_0.063W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978272@resistors.\res_0402_4k7_0.063w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978272@resistors.\res_0402_4k7_0.063w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R226 'RES_0402_4K7_0.063W_1%_SMD_V_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19978284@RESISTORS.RES_0402_4K7_0.063W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19978284@resistors.\res_0402_4k7_0.063w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page5_ins19978284@resistors.\res_0402_4k7_0.063w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R241 'RES_0805_31R6_0.125W_1%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20001198@6043_PROJ.RES_0805_31R6_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20001198@\6043_proj\.\res_0805_31r6_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins20001198@\6043_proj\.\res_0805_31r6_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R242 'RES_0805_16K2_0.125W_1%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985862@6043_PROJ.RES_0805_16K2_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985862@\6043_proj\.\res_0805_16k2_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985862@\6043_proj\.\res_0805_16k2_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R243 'RES_0805_21K0_0.125W_1%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985923@6043_PROJ.RES_0805_21K0_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985923@\6043_proj\.\res_0805_21k0_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985923@\6043_proj\.\res_0805_21k0_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R244 'RES_0805_20R0_0.125W_5%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986326@6043_PROJ.RES_0805_20R0_0.125W_5%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986326@\6043_proj\.\res_0805_20r0_0.125w_5%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986326@\6043_proj\.\res_0805_20r0_0.125w_5%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R246 'RES_0805_4K99_0.125W_1%_SMD_H_R':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985850@6043_PROJ.RES_0805_4K99_0.125W_1%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985850@\6043_proj\.\res_0805_4k99_0.125w_1%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985850@\6043_proj\.\res_0805_4k99_0.125w_1%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R249 'RES_1206_0R22_0.125W_1%_SMD_R12':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985752@6043_PROJ.RES_1206_0R22_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985752@\6043_proj\.\res_1206_0r22_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985752@\6043_proj\.\res_1206_0r22_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R250 'RES_1206_0R22_0.125W_1%_SMD_R12':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985776@6043_PROJ.RES_1206_0R22_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985776@\6043_proj\.\res_1206_0r22_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985776@\6043_proj\.\res_1206_0r22_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R251 'RES_0805_10R0_0.125_1%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986459@6043_PROJ.RES_0805_10R0_0.125_1%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986459@\6043_proj\.\res_0805_10r0_0.125_1%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986459@\6043_proj\.\res_0805_10r0_0.125_1%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R252 'RES_0402_44K2_0.1W_1%_SMD_V_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985684@6043_PROJ.RES_0402_44K2_0.1W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985684@\6043_proj\.\res_0402_44k2_0.1w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985684@\6043_proj\.\res_0402_44k2_0.1w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R253 'RES_0805_1K87_0.125W_1%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985728@6043_PROJ.RES_0805_1K87_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985728@\6043_proj\.\res_0805_1k87_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985728@\6043_proj\.\res_0805_1k87_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R254 'RES_0805_14K7_0.125W_1%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985740@6043_PROJ.RES_0805_14K7_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985740@\6043_proj\.\res_0805_14k7_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985740@\6043_proj\.\res_0805_14k7_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R269 'RES_0402_0R0_0.125W_JMPR_SMD_H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986364@6043_PROJ.RES_0402_0R0_0.125W_JMPR_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986364@\6043_proj\.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986364@\6043_proj\.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R270 'RES_0805_750R0_0.125W_1%_SMD_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986428@6043_PROJ.RES_0805_750R0_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986428@\6043_proj\.\res_0805_750r0_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986428@\6043_proj\.\res_0805_750r0_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R271 'RES_0603_100_0.1W_5%_SMD_V_R060':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985794@6043_PROJ.RES_0603_100_0.1W_5%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985794@\6043_proj\.\res_0603_100_0.1w_5%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985794@\6043_proj\.\res_0603_100_0.1w_5%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R272 'RES_0805_750R0_0.125W_1%_SMD_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990301@6043_PROJ.RES_0805_750R0_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990301@\6043_proj\.\res_0805_750r0_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990301@\6043_proj\.\res_0805_750r0_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R273 'RES_0805_10R0_0.125_1%_SMD_H_R0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990338@6043_PROJ.RES_0805_10R0_0.125_1%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990338@\6043_proj\.\res_0805_10r0_0.125_1%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990338@\6043_proj\.\res_0805_10r0_0.125_1%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R274 'RES_0402_44K2_0.1W_1%_SMD_V_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989569@6043_PROJ.RES_0402_44K2_0.1W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989569@\6043_proj\.\res_0402_44k2_0.1w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989569@\6043_proj\.\res_0402_44k2_0.1w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R275 'RES_0805_1K87_0.125W_1%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989613@6043_PROJ.RES_0805_1K87_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989613@\6043_proj\.\res_0805_1k87_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989613@\6043_proj\.\res_0805_1k87_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R276 'RES_0805_14K7_0.125W_1%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989625@6043_PROJ.RES_0805_14K7_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989625@\6043_proj\.\res_0805_14k7_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989625@\6043_proj\.\res_0805_14k7_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R277 'RES_1206_0R22_0.125W_1%_SMD_R12':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989637@6043_PROJ.RES_1206_0R22_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989637@\6043_proj\.\res_1206_0r22_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989637@\6043_proj\.\res_1206_0r22_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R278 'RES_1206_0R22_0.125W_1%_SMD_R12':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989665@6043_PROJ.RES_1206_0R22_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989665@\6043_proj\.\res_1206_0r22_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989665@\6043_proj\.\res_1206_0r22_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R279 'RES_0603_100_0.1W_5%_SMD_V_R060':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989681@6043_PROJ.RES_0603_100_0.1W_5%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989681@\6043_proj\.\res_0603_100_0.1w_5%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989681@\6043_proj\.\res_0603_100_0.1w_5%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R280 'RES_0805_31R6_0.125W_1%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20001253@6043_PROJ.RES_0805_31R6_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20001253@\6043_proj\.\res_0805_31r6_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins20001253@\6043_proj\.\res_0805_31r6_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R281 'RES_0805_16K2_0.125W_1%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989735@6043_PROJ.RES_0805_16K2_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989735@\6043_proj\.\res_0805_16k2_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989735@\6043_proj\.\res_0805_16k2_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R282 'RES_0805_4K99_0.125W_1%_SMD_H_R':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989747@6043_PROJ.RES_0805_4K99_0.125W_1%_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989747@\6043_proj\.\res_0805_4k99_0.125w_1%_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989747@\6043_proj\.\res_0805_4k99_0.125w_1%_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R283 'RES_0805_21K0_0.125W_1%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989808@6043_PROJ.RES_0805_21K0_0.125W_1%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989808@\6043_proj\.\res_0805_21k0_0.125w_1%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989808@\6043_proj\.\res_0805_21k0_0.125w_1%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R284 'RES_0805_20R0_0.125W_5%_SMD_R08':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990197@6043_PROJ.RES_0805_20R0_0.125W_5%_SMD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990197@\6043_proj\.\res_0805_20r0_0.125w_5%_smd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990197@\6043_proj\.\res_0805_20r0_0.125w_5%_smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R285 'RES_0402_0R0_0.125W_JMPR_SMD_H_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990247@6043_PROJ.RES_0402_0R0_0.125W_JMPR_SMD_H.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990247@\6043_proj\.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990247@\6043_proj\.\res_0402_0r0_0.125w_jmpr_smd_h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_0402_10K0_0.1W_5%_SMD_V_R04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19994149@LIBRARY1.RES_0402_10K0_0.1W_5%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19994149@library1.\res_0402_10k0_0.1w_5%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page15_ins19994149@library1.\res_0402_10k0_0.1w_5%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_0402_3K01_0.1W_1%_SMD_V_R04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19994308@LIBRARY1.RES_0402_3K01_0.1W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19994308@library1.\res_0402_3k01_0.1w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page15_ins19994308@library1.\res_0402_3k01_0.1w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'RES_0603_100_0.1W_5%_SMD_V_R060':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828853@LIBRARY1.RES_0603_100_0.1W_5%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828853@library1.\res_0603_100_0.1w_5%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828853@library1.\res_0603_100_0.1w_5%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'RES_0402_10K0_0.1W_5%_SMD_V_R04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828985@LIBRARY1.RES_0402_10K0_0.1W_5%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828985@library1.\res_0402_10k0_0.1w_5%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828985@library1.\res_0402_10k0_0.1w_5%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R45 'RES_0603_100_0.1W_5%_SMD_V_R060':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829149@LIBRARY1.RES_0603_100_0.1W_5%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829149@library1.\res_0603_100_0.1w_5%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19829149@library1.\res_0603_100_0.1w_5%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R46 'RES_0402_10K0_0.1W_5%_SMD_V_R04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828947@LIBRARY1.RES_0402_10K0_0.1W_5%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828947@library1.\res_0402_10k0_0.1w_5%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828947@library1.\res_0402_10k0_0.1w_5%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R47 'RES_0603_100_0.1W_5%_SMD_V_R060':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828867@LIBRARY1.RES_0603_100_0.1W_5%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828867@library1.\res_0603_100_0.1w_5%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828867@library1.\res_0603_100_0.1w_5%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'RES_0402_10K0_0.1W_5%_SMD_V_R04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829033@LIBRARY1.RES_0402_10K0_0.1W_5%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829033@library1.\res_0402_10k0_0.1w_5%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19829033@library1.\res_0402_10k0_0.1w_5%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'RES_0402_54K9_0.1W_1%_SMD_V_R04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829793@LIBRARY1.RES_0402_54K9_0.1W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829793@library1.\res_0402_54k9_0.1w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829793@library1.\res_0402_54k9_0.1w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES_0402_1K0_0.1W_1%_SMD_V_R040':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19994161@LIBRARY1.RES_0402_1K0_0.1W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19994161@library1.\res_0402_1k0_0.1w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page15_ins19994161@library1.\res_0402_1k0_0.1w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'RES_0402_44K2_0.1W_1%_SMD_V_R04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19830017@LIBRARY1.RES_0402_44K2_0.1W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19830017@library1.\res_0402_44k2_0.1w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19830017@library1.\res_0402_44k2_0.1w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'RES_0402_51K1_0.1W_1%_SMD_V_R04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829611@LIBRARY1.RES_0402_51K1_0.1W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829611@library1.\res_0402_51k1_0.1w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829611@library1.\res_0402_51k1_0.1w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'RES_0402_12K4_0.1W_1%_SMD_V_R04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829875@LIBRARY1.RES_0402_12K4_0.1W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829875@library1.\res_0402_12k4_0.1w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829875@library1.\res_0402_12k4_0.1w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'RES_0402_102K_0.1W_1%_SMD_V_R04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829833@LIBRARY1.RES_0402_102K_0.1W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829833@library1.\res_0402_102k_0.1w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829833@library1.\res_0402_102k_0.1w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'RES_2512_8M_2W_1%_SMD_V_R2512_8':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829915@LIBRARY1.RES_2512_8M_2W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829915@library1.\res_2512_8m_2w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829915@library1.\res_2512_8m_2w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'RES_2512_8M_2W_1%_SMD_V_R2512_8':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829779@LIBRARY1.RES_2512_8M_2W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829779@library1.\res_2512_8m_2w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829779@library1.\res_2512_8m_2w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'RES_0402_1K2_0.1W_1%_SMD_V_R040':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829901@LIBRARY1.RES_0402_1K2_0.1W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829901@library1.\res_0402_1k2_0.1w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829901@library1.\res_0402_1k2_0.1w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'RES_0402_3K74_0.1W_1%_SMD_V_R04':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19830133@LIBRARY1.RES_0402_3K74_0.1W_1%_SMD_V.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19830133@library1.\res_0402_3k74_0.1w_1%_smd_v.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19830133@library1.\res_0402_3k74_0.1w_1%_smd_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP_PIN1 'TEST POINT_0_TP_SMT_SQ40_TEST P':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980219@4959_ECONA_CARRIER_SCH_030711.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980219@\4959_econa_carrier_sch_030711\.\test point_0.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980219@\4959_econa_carrier_sch_030711\.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP_PIN3 'TEST POINT_0_TP_SMT_SQ40_TEST P':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980232@4959_ECONA_CARRIER_SCH_030711.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980232@\4959_econa_carrier_sch_030711\.\test point_0.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980232@\4959_econa_carrier_sch_030711\.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP_PIN6 'TEST POINT_0_TP_SMT_SQ40_TEST P':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980206@4959_ECONA_CARRIER_SCH_030711.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980206@\4959_econa_carrier_sch_030711\.\test point_0.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980206@\4959_econa_carrier_sch_030711\.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP_PIN9 'TEST POINT_0_TP_SMT_SQ40_TEST P':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980255@4959_ECONA_CARRIER_SCH_030711.TEST POINT_0.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980255@\4959_econa_carrier_sch_030711\.\test point_0.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980255@\4959_econa_carrier_sch_030711\.\test point_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'LM25119_WQFN32_0O5MM_5X5MM_TI_L':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829625@LIBRARY1.LM25119.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829625@library1.\lm25119.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page14_ins19829625@library1.\lm25119.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U103 'PWM_SYS-CNTR_8V-15V_LM5072MH-80':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985874@6043_PROJ.PWM_SYS-CNTR_8V-15V_LM5072MH-80.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985874@\6043_proj\.\pwm_sys-cntr_8v-15v_lm5072mh-80.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985874@\6043_proj\.\pwm_sys-cntr_8v-15v_lm5072mh-80.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U104 'TRANSFORMER_18V-57V_FA2898-AL_T':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19985995@6043_PROJ.TRANSFORMER_18V-57V_FA2898-AL.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19985995@\6043_proj\.\transformer_18v-57v_fa2898-al.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19985995@\6043_proj\.\transformer_18v-57v_fa2898-al.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U105 'DSCTKY_0V47_5A_TBD_DPAK_SM_DPAK':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986067@6043_PROJ.DSCTKY_0V47_5A_TBD_DPAK_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986067@\6043_proj\.\dsctky_0v47_5a_tbd_dpak_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986067@\6043_proj\.\dsctky_0v47_5a_tbd_dpak_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U106 'MOSFET_N_4V_10V_3.5A_1.9W_SM_PO':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986141@6043_PROJ.MOSFET_N_4V_10V_3.5A_1.9W_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986141@\6043_proj\.\mosfet_n_4v_10v_3.5a_1.9w_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986141@\6043_proj\.\mosfet_n_4v_10v_3.5a_1.9w_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U107 'PHOTOCOUPLER_TRANS_PS2501L_PHOT':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986194@6043_PROJ.PHOTOCOUPLER_TRANS_PS2501L.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986194@\6043_proj\.\photocoupler_trans_ps2501l.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986194@\6043_proj\.\photocoupler_trans_ps2501l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U108 'PWM_SYS-CNTR_8V-15V_LM5072MH-80':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989766@6043_PROJ.PWM_SYS-CNTR_8V-15V_LM5072MH-80.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989766@\6043_proj\.\pwm_sys-cntr_8v-15v_lm5072mh-80.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989766@\6043_proj\.\pwm_sys-cntr_8v-15v_lm5072mh-80.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U109 'TRANSFORMER_18V-57V_FA2898-AL_T':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989882@6043_PROJ.TRANSFORMER_18V-57V_FA2898-AL.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989882@\6043_proj\.\transformer_18v-57v_fa2898-al.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989882@\6043_proj\.\transformer_18v-57v_fa2898-al.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U110 'DSCTKY_0V47_5A_TBD_DPAK_SM_DPAK':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19989950@6043_PROJ.DSCTKY_0V47_5A_TBD_DPAK_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19989950@\6043_proj\.\dsctky_0v47_5a_tbd_dpak_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19989950@\6043_proj\.\dsctky_0v47_5a_tbd_dpak_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U111 'MOSFET_N_4V_10V_3.5A_1.9W_SM_PO':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990018@6043_PROJ.MOSFET_N_4V_10V_3.5A_1.9W_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990018@\6043_proj\.\mosfet_n_4v_10v_3.5a_1.9w_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990018@\6043_proj\.\mosfet_n_4v_10v_3.5a_1.9w_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U112 'PHOTOCOUPLER_TRANS_PS2501L_PHOT':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990071@6043_PROJ.PHOTOCOUPLER_TRANS_PS2501L.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990071@\6043_proj\.\photocoupler_trans_ps2501l.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990071@\6043_proj\.\photocoupler_trans_ps2501l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U113 'REG_SHUNT_1V24-30V_SM_SOT23-5_0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20021087@6043_PROJ.REG_SHUNT_1V24-30V_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20021087@\6043_proj\.\reg_shunt_1v24-30v_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins20021087@\6043_proj\.\reg_shunt_1v24-30v_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U114 'REG_SHUNT_1V24-30V_SM_SOT23-5_0':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS20021482@6043_PROJ.REG_SHUNT_1V24-30V_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins20021482@\6043_proj\.\reg_shunt_1v24-30v_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins20021482@\6043_proj\.\reg_shunt_1v24-30v_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LMR62421XSD_WQFN6_0O95MM_3X3MM_':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19994320@LIBRARY1.LMR62421XSD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19994320@library1.\lmr62421xsd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page15_ins19994320@library1.\lmr62421xsd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U38 'MAX3232CD_SOIC16_50MIL_300MIL_T':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19753917@5665_PROJ.MAX3232CD.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19753917@\5665_proj\.\max3232cd.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page8_ins19753917@\5665_proj\.\max3232cd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U39 'TRNSVR_ISL32600E_MSOP10_0O5MM_3':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19980056@6043_PROJ.TRNSVR_ISL32600E.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19980056@\6043_proj\.\trnsvr_isl32600e.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page7_ins19980056@\6043_proj\.\trnsvr_isl32600e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'LM5050-1_SOT6_0O95MM_DDC_TI_LM5':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828881@LIBRARY1.LM5050-1.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828881@library1.\lm5050-1.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828881@library1.\lm5050-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'LM5050-1_SOT6_0O95MM_DDC_TI_LM5':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19829117@LIBRARY1.LM5050-1.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19829117@library1.\lm5050-1.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19829117@library1.\lm5050-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'LM5050-1_SOT6_0O95MM_DDC_TI_LM5':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19828835@LIBRARY1.LM5050-1.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19828835@library1.\lm5050-1.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page13_ins19828835@library1.\lm5050-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Z101 'D-TVS_SMAJ58A_SM_DO214AC_2P_176':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19986288@6043_PROJ.D-TVS_SMAJ58A_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19986288@\6043_proj\.\d-tvs_smaj58a_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page10_ins19986288@\6043_proj\.\d-tvs_smaj58a_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Z102 'D-TVS_SMAJ58A_SM_DO214AC_2P_176':;
+
+SECTION_NUMBER 1
+ '@6043_WOLVERINE_ECONA-INTERFACE_SCH_010113.6043(SCH_1):INS19990159@6043_PROJ.D-TVS_SMAJ58A_SM.NORMAL(CHIPS)':
+ C_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):ins19990159@\6043_proj\.\d-tvs_smaj58a_sm.normal\(chips)',
+ P_PATH='@\6043_wolverine_econa-interface_sch_010113\.\6043\(sch_1):page12_ins19990159@\6043_proj\.\d-tvs_smaj58a_sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

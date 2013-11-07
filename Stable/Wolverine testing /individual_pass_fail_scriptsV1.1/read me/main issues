@@ -1,0 +1,9 @@
+usb sdhci has some issue, solution in progress 
+
+use  listing on both GSM modules and if SIM card's at+cpin works it also means gsm module is working 
+
+there is no ethernet test for 3 ports 
+
+pci/pcie listing and read/write needs to be merged in one script/code . Also asl sridhar if pci/pcie stress will be used in production ?
+
+

@@ -1,0 +1,33 @@
+Interface card : We don't think interface board testing has any benifit as we can't test it when interface board is removed also since interface board gives power to carrier board so if processor is running it means interface board is preset. 
+
+All individual scripts need to be on board, there should be no tftp
+
+** box around pass and fail messages 
+
+usb sdhci has some issue, solution in progress 
+
+use  listing on both GSM modules and if SIM card's at+cpin works it also means gsm module is working 
+
+we have not tested any failed RAM, how we can do it ? 
+
+video card till not tested as it is not available 
+
+GPIO code need to be verified on rev 3 using DMM and LEDs visual also code recheck for possible issues 
+
+there is no ethernet test for 3 ports 
+
+what about poe ??? 
+
+PEX8603  has i2c interface as debugging interface, we don't test it
+
+Ublox GPS – Neo 7N0000 (i2c packet size issue, solution is progress ) 
+
+Temp sensor : unable to read temp, solution in progress 
+
+pci/pcie listing and read/write needs to be merged in one script/code . Also asl sridhar if pci/pcie stress will be used in production ? 
+
+how to test managerment port ??
+
+***JTAG test needed in production, ask sridhar ? 
+
+3 pci/pcie modules are being replaced by some other modules for testing due to driver issues 

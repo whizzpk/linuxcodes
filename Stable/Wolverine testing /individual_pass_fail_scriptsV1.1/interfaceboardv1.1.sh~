@@ -1,0 +1,12 @@
+#!/bin/sh
+
+
+
+
+state=$(dmesg | tail -n 1 | cut -d] -f 2)
+tmp='get value pin=60 state=0 > /proc/cns3xxx/gpio'
+if test $tmp=$state
+then echo "Interface board detection Test - Passed"
+else echo "Interface board detection Test - Failed"
+fi  
+

@@ -1,0 +1,42 @@
+U-Boot 2008.10-mpcore (Feb 23 2011 - 13:13:48)                                  
+Cavium Networks CNS3XXX SDK v1.1-1952                                           
+                                                                                
+CPU: Cavium Networks CNS3000                                                    
+ID Code: 410fb024 (Part number: 0xB02, Revision number: 4)                      
+CPU ID: 900                                                                     
+Chip Version: c                                                                 
+                                                                                
+DRAM:  512 MB                                                                   
+Flash Manufacturer: MX                                                          
+Flash: 32 MB                                                                    
+DataFlash:MX 25L256                                                             
+Nb pages: 131072                                                                
+Page Size:    256                                                               
+Size=33554432 bytes                                                             
+Logical address: 0x60000000                                                     
+Area 0: 60000000 to 61FFFFFF      SPI flash                                     
+In:    serial                                                                   
+Out:   serial                                                                   
+Err:   serial                                                                   
+CPU works at 600 MHz (600/1/1)                                                  
+DDR2 Speed is 400 MHz                                                           
+Hit any key to stop autoboot:  0                                                
+CNS3000 # printenv                                                              
+bootargs=root=/dev/mtdblock0 mem=256M console=ttyS0                             
+bootdelay=2                                                                     
+baudrate=38400                                                                  
+bootfile="/tftpboot/uImage"                                                     
+tftp_bsize=512                                                                  
+udp_frag_size=512                                                               
+bootdealy=3                                                                     
+wolfath=mmcinit;tftp 0x4000000 wolfath;go 0x4000000                             
+ethaddr=CA:FE:DE:AD:BA:BE                                                       
+flashwolf87=mmcinit;tftp 0x4000000 flashwolf87;go 0x4000000                     
+bootcmd=tftp 0x4000000 boa2;go 0x4000000                                        
+netmask=255.255.255.0                                                           
+serverip=192.168.1.103                                                          
+ipaddr=192.168.1.102                                                            
+stdin=serial                                                                    
+stdout=serial                                                                   
+stderr=serial                                                                   
+verify=n      

@@ -1,0 +1,9 @@
+#!/bin/bash
+modprobe i2c-cns3xxx
+mount -t usbfs none /proc/bus/usb 
+modprobe cns3xxx
+ifconfig eth0 192.168.0.111
+tftp -l passfailtest -r passfailtest -g 192.168.0.102
+chmod 777 passfailtest
+./passfailtest
+

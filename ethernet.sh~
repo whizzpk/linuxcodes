@@ -1,0 +1,16 @@
+#!/bin/bash
+modprobe sdhci-cns3xxx
+modprobe mmc-block 
+mkdir /mnt/mmc
+mount /dev/mmcblk0p1 /mnt/mmc
+cd /mnt/mmc
+chmod 777 i2c.sh
+modprobe cns3xxx
+ifconfig eth0 192.168.0.111
+ifconfig eth1 192.168.0.112
+ifconfig eth2 192.168.0.114
+for (( ; ; ))
+do
+   ping -c 5 -q 192.168.0.102 1 | grep packets | cut -d ] -f 2 >> results.dat
+   
+done

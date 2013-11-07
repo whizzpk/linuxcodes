@@ -1,0 +1,7 @@
+pciutils commands
+ make CROSS_COMPILE=arm-linux-gcc HOST=arm-none-linux PREFIX=/targetnfs/durota/rfs/user/local/pciutils all
+ 
+  1084  make CROSS_COMPILE=arm-linux- 
+ 1085  make clean
+ 1086  make CROSS_COMPILE=arm-linux- 
+
